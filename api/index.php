@@ -1,2 +1,4 @@
 <?php
-phpinfo();
+    header("Location: portel.php");
+    exit();
+?>
